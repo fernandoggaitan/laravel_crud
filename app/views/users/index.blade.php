@@ -17,7 +17,7 @@
                     <th style="width: 200px; border-bottom: solid 1px #000;"> Nombre real </th>
                     <th style="width: 200px; border-bottom: solid 1px #000;"> Email </th>
                     <th style="width: 50px; border-bottom: solid 1px #000;"> Nivel </th>
-                    <th style="width: 50px; border-bottom: solid 1px #000;"> Estado </th>
+                    <th style="width: 50px; border-bottom: solid 1px #000;"> Activo </th>
                     <th style="width: 50px; border-bottom: solid 1px #000;">  </th>
                     <th style="width: 50px; border-bottom: solid 1px #000;">  </th>
                     <th style="width: 50px; border-bottom: solid 1px #000;">  </th>
